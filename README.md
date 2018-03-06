@@ -1,1 +1,1 @@
-# -kb2018-enterprise-space-dock
+# kb2018-enterprise-space-dock
